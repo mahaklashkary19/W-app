@@ -1,5 +1,7 @@
 Flask
 flask_sqlalchemy
-Google Chrome
 requests
 sqlite3
+streamlit
+pandas
+numpy
